@@ -1,0 +1,17 @@
+//Organizando o codigo
+
+// Criando métodos
+
+// Corrigindo erros no codigo
+- compilacao
+- resultado inesperado
+
+//Utilizando debug
+
+//Extraindo sua aplicacao
+- extrai-lo p/ rodar em outra maquina
+- gerar um arquivo .jar
+- Project Structure -> Artifacts -> + -> export via jar modules and dependencies -> OK -> define para onde irá extrair
+- Fazer o build do artifact
+- Na pasta out contem os artefatos
+- java -jar + nome do arquivo executa o programa que foi extraído
