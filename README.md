@@ -1,6 +1,6 @@
 # Sobre
 
-Projeto criado para praticar alguns conceitos básicos do Java.
+Projeto criado para revisar alguns conceitos básicos do Java.
 
 #Anotacoes 
 
