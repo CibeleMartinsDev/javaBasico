@@ -2,7 +2,7 @@
 
 Projeto criado para revisar alguns conceitos básicos do Java.
 
-#Anotacoes 
+# Anotacoes 
 
 [Dia 1](https://abstracted-plum-b15.notion.site/Dia-1-1992d7382dc48038b84bfa4d828c3d4c)
 
